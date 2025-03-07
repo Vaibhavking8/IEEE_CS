@@ -17,7 +17,6 @@
   - `pandas` - Data handling and processing
   - `numpy` - Numerical computations
   - `matplotlib` - Data visualization
-  - `seaborn` - Enhanced visualizations
   - `sklearn` - Machine learning (Logistic Regression, data preprocessing, model evaluation)
   - `tensorflow/keras` - Deep learning (Neural Network implementation)
 
