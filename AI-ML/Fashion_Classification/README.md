@@ -26,17 +26,15 @@
 ### 🚀 Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone <repository_link>
+   git clone https://github.com/Vaibhavking8/IEEE_CS.git
    cd <project_directory>
    ```
 2. **Install required dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
-3. **Run the script:**
-   ```bash
-   python main.py
-   ```
+3. **Run the cells of Jupyter Notebook**
+   
 4. **View results:**
    - Sample images and dataset insights will be displayed.
    - Model training and evaluation metrics will be printed.
